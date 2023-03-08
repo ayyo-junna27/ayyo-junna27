@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayyo-junna27
 - 👀 I’m interested in learning about cyber security
-- 🌱 I’m currently learning how to troubleshoot
+- 🌱 I’m currently learning how to 'hack the box'
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me, on here.. obviously :)
 
